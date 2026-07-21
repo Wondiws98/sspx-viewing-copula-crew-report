@@ -22,4 +22,4 @@ Additionally adds the Visual Scan Science Experiment to the stock Viewing Cupola
 2. Drag and drop the content of the archive into your KSP install folder.
 
 ## Uninstallation:
-1. Delete the "SSPXViewingCupolaCrewReport" folder located within your GameData folder.
+1. Delete the "SSPXViewingCopulaCrewReport" folder located within your GameData folder.
