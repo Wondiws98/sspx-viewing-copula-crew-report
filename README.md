@@ -1,7 +1,7 @@
 # SSPX Viewing Copula Crew Report
 Gives SSPX's Viewing Copulas the ability to perform Crew Report Science Experiments.
 
-It additionally adds the Visual Scan Science Experiment to the stock Viewing Copula.
+Additionally adds the Visual Scan Science Experiment to the stock Viewing Copula.
 
 ## Modded Copula Changes:
 
