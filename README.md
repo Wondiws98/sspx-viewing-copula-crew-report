@@ -18,8 +18,8 @@ Additionally adds the Visual Scan Science Experiment to the stock Viewing Cupola
 2. [Stockalike Station Parts Expansion Redux](https://forum.kerbalspaceprogram.com/topic/170211-112-stockalike-station-parts-redux-august-14-2024/)
 
 ## Installation:
-1. Download the .zip archive file from the [release page](https://github.com/Wondiws98/sspx-viewing-copula-crew-report/releases/tag/0.1).
+1. Download the .zip archive file from the [release page](https://github.com/Wondiws98/sspx-viewing-copula-crew-report/releases/tag/0.2).
 2. Drag and drop the content of the archive into your KSP install folder.
 
 ## Uninstallation:
-1. Delete the "SSPXViewingCopulaCrewReport" folder located within your GameData folder.
+1. Delete the "SSPXViewingCupolaCrewReport" folder located within your GameData folder.
