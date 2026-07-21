@@ -1,14 +1,14 @@
-# SSPX Viewing Copula Crew Report
-Gives SSPX's Viewing Copulas the ability to perform Crew Report Science Experiments.
+# SSPX Viewing Cupola Crew Report
+Gives SSPX's Viewing Cupolas the ability to perform Crew Report Science Experiments.
 
-Additionally adds the Visual Scan Science Experiment to the stock Viewing Copula.
+Additionally adds the Visual Scan Science Experiment to the stock Viewing Cupola.
 
-## Modded Copula Changes:
+## Modded Cupola Changes:
 
 <img width="508" height="319" alt="image" src="https://github.com/user-attachments/assets/e32bf708-ddb8-43c9-942d-3055a74883c0" />
 
 
-## Stock Copula Changes:
+## Stock Cupola Changes:
 
 <img width="508" height="319" alt="image" src="https://github.com/user-attachments/assets/c7e9a5c6-f5a9-4fb1-b1fa-150072ac8a45" />
 
@@ -22,4 +22,4 @@ Additionally adds the Visual Scan Science Experiment to the stock Viewing Copula
 2. Drag and drop the content of the archive into your KSP install folder.
 
 ## Uninstallation:
-1. Delete the "SSPXViewingCopulaCrewReport" folder located within your GameData folder.
+1. Delete the "SSPXViewingCupolaCrewReport" folder located within your GameData folder.
