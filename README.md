@@ -3,12 +3,12 @@ Gives SSPX's Viewing Copulas the ability to perform Crew Report Science Experime
 
 It additionally adds the Visual Scan Science Experiment to the stock Viewing Copula.
 
-## Modded Copula:
+## Modded Copula Changes:
 
 <img width="508" height="319" alt="image" src="https://github.com/user-attachments/assets/e32bf708-ddb8-43c9-942d-3055a74883c0" />
 
 
-## Stock Copula:
+## Stock Copula Changes:
 
 <img width="508" height="319" alt="image" src="https://github.com/user-attachments/assets/c7e9a5c6-f5a9-4fb1-b1fa-150072ac8a45" />
 
